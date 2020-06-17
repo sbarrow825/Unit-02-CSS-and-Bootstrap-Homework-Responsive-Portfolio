@@ -6,3 +6,13 @@
 .grey-background {
     background-color: grey;
 }
+
+.pinnedImage {
+    position: absolute;
+    top: 90%;
+    left: 10%;
+    background-color: teal;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+}
